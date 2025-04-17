@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CppProjects\\Dat\\Work\\FinalWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04A64E0D-5B82-4136-ABB1-1A147E5588EF}|FinalWork.vcxproj|F:\\CppProjects\\Dat\\Work\\FinalWork\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04A64E0D-5B82-4136-ABB1-1A147E5588EF}|FinalWork.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\CppProjects\\Dat\\Work\\FinalWork\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "F:\\CppProjects\\Dat\\Work\\FinalWork\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABQCAAAAAAAAAAAYwCsCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T15:00:27.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
